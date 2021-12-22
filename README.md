@@ -9,6 +9,8 @@ https://github.com/hillu/local-log4j-vuln-scanner
 https://github.com/omrsafetyo/PowerShellSnippets/blob/master/Invoke-Log4ShellScan.ps1
 https://github.com/mergebase/log4j-detector
 https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b
+https://github.com/qualys/log4jscanwin
+https://github.com/proferosec/log4jScanner
 
 
 POC in Python: https://github.com/alexandre-lavoie/python-log4rce
